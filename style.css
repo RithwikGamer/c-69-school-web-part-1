@@ -1,0 +1,26 @@
+.navbar-inverse
+{
+    font-size:20px;
+}
+.container
+{
+font-size:30px;
+
+}
+.contact_iframe
+{
+    width: 50%;
+    height: 100px;
+}
+iframe 
+{
+    width="1000" height="500";
+}
+.contact_1 h1
+{
+font-size:20px;
+}
+.contact_1 h2
+{
+font-size:20px;
+} 
